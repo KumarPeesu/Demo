@@ -1,0 +1,42 @@
+.search-result-page .search-form-wrapper .search-form .form-date-field .check-in-wrapper .render, .search-result-page .search-form-wrapper .search-form .form-date-field .check-out-wrapper .render {
+	color: #9331c4;
+}
+
+.search-result-page.st-tours .grid-item .service-review {
+	display: none;
+}
+
+.search-result-page.st-tours .grid-item .section-footer {
+	display: none;
+}
+
+.search-result-page.st-tours .grid-item .thumb .st_sale_class { 
+display: none;
+}
+
+#st-content-wrapper.st-single-tour .form-book-wrapper .form-head {
+	display: none;
+}
+
+#st-content-wrapper.st-single-tour .form-book-wrapper .tour-sale-box .st_sale_class {
+	display: none;
+}
+
+#st-content-wrapper.st-single-tour .st-list-tour-related .item .body .st-stars {
+	display: none;
+}
+
+#st-content-wrapper.st-single-tour .st-list-tour-related .item .body .review-text {
+	display: none;
+}
+
+.st-flex.space-between { 
+display: none}
+
+.search-result-page.st-tours .style-list .item-service .section-footer .service-price {
+	display: none;
+}
+
+.search-result-page.st-tours .style-list .item-service .section-footer .st_sale_class {
+	display: none;
+}
